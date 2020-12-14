@@ -1,0 +1,7 @@
+Need to install pods
+
+pod 'YandexMapKit'
+pod 'YandexMapKitDirections'
+pod 'YandexMapKitPlaces'
+pod ‘YandexMapKitSearch'
+pod 'YandexMapKitTransport'
